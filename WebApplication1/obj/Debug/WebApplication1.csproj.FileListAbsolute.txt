@@ -1,0 +1,43 @@
+D:\Mi Trabajo\Tutoriales\Login\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+D:\Mi Trabajo\Tutoriales\Login\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\Mi Trabajo\Tutoriales\Login\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\Mi Trabajo\Tutoriales\Login\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+D:\Mi Trabajo\Tutoriales\Login\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+D:\Mi Trabajo\Tutoriales\Login\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+D:\Mi Trabajo\Tutoriales\Login\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+D:\Mi Trabajo\Tutoriales\Login\WebApplication1\WebApplication1\bin\System.Web.Webpages.dll
+D:\Mi Trabajo\Tutoriales\Login\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.dll
+D:\Mi Trabajo\Tutoriales\Login\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+D:\Mi Trabajo\Tutoriales\Login\WebApplication1\WebApplication1\bin\System.Web.Webpages.xml
+D:\Mi Trabajo\Tutoriales\Login\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+D:\Mi Trabajo\Tutoriales\Login\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.xml
+D:\Mi Trabajo\Tutoriales\Login\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+D:\Mi Trabajo\Tutoriales\Login\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+D:\Mi Trabajo\Tutoriales\Login\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\Mi Trabajo\Tutoriales\Login\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\Mi Trabajo\Tutoriales\Login\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Nelson\Downloads\14b4be20299e9d64f4a713bafcef9180\Login\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Nelson\Downloads\14b4be20299e9d64f4a713bafcef9180\Login\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Nelson\Downloads\14b4be20299e9d64f4a713bafcef9180\Login\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Nelson\Downloads\14b4be20299e9d64f4a713bafcef9180\Login\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nelson\Downloads\14b4be20299e9d64f4a713bafcef9180\Login\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\Nelson\Downloads\14b4be20299e9d64f4a713bafcef9180\Login\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\Nelson\Downloads\14b4be20299e9d64f4a713bafcef9180\Login\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\Nelson\Downloads\14b4be20299e9d64f4a713bafcef9180\Login\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Nelson\Downloads\14b4be20299e9d64f4a713bafcef9180\Login\WebApplication1\WebApplication1\bin\System.Web.Webpages.dll
+C:\Users\Nelson\Downloads\14b4be20299e9d64f4a713bafcef9180\Login\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.dll
+C:\Users\Nelson\Downloads\14b4be20299e9d64f4a713bafcef9180\Login\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\Nelson\Downloads\14b4be20299e9d64f4a713bafcef9180\Login\WebApplication1\WebApplication1\bin\System.Web.Webpages.xml
+C:\Users\Nelson\Downloads\14b4be20299e9d64f4a713bafcef9180\Login\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Nelson\Downloads\14b4be20299e9d64f4a713bafcef9180\Login\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.xml
+C:\Users\Nelson\Downloads\14b4be20299e9d64f4a713bafcef9180\Login\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\Nelson\Downloads\14b4be20299e9d64f4a713bafcef9180\Login\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\Nelson\Downloads\14b4be20299e9d64f4a713bafcef9180\Login\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Nelson\Downloads\14b4be20299e9d64f4a713bafcef9180\Login\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Nelson\Downloads\14b4be20299e9d64f4a713bafcef9180\Login\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\Nelson\Downloads\14b4be20299e9d64f4a713bafcef9180\Login\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.dll
+C:\Users\Nelson\Downloads\14b4be20299e9d64f4a713bafcef9180\Login\WebApplication1\WebApplication1\bin\System.Web.Http.dll
+C:\Users\Nelson\Downloads\14b4be20299e9d64f4a713bafcef9180\Login\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\Nelson\Downloads\14b4be20299e9d64f4a713bafcef9180\Login\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.xml
+C:\Users\Nelson\Downloads\14b4be20299e9d64f4a713bafcef9180\Login\WebApplication1\WebApplication1\bin\System.Web.Http.xml
+C:\Users\Nelson\Downloads\14b4be20299e9d64f4a713bafcef9180\Login\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
